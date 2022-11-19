@@ -16,7 +16,7 @@
 | Team Size |5 &emsp; |
 | College Name |Annai College of Engineering and Technology, Kovilachery &emsp; |
 | Team Mentor |Vasudeva Hanush|
-| College SPOC |Mrs. Rajeswari V |
+| College SPOC |Mr.Ilayaraja |
 
 &emsp;
 
