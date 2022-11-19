@@ -34,7 +34,7 @@
    
 
 ## BRAINSTROMING-IDEA GENERATION :
-   - [BRAINSTROMING](https://github.com/IBM-EPBL/IBM-Project-18351-1659683556/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brain%20Stroming%26Idea%20Prioritization.pdf)
+   - [BRAINSTROMING](https://github.com/IBM-EPBL/IBM-Project-48064-1660804174/blob/main/Project%20design%20and%20Planning/Ideation%20phase/BrainStroming.pdf)
    
    
 ## LITERATURE SURVEY :
