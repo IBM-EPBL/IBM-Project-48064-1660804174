@@ -22,7 +22,7 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/99788851/194715091-fd5a8ed2-641a-44e2-bb77-613e36c4ee00.png" alt="drawing" width="25"/> Team members
-- Nandhakumaar M
+- Nandhakumar M
 - Surendhar A
 - Manikandan S
 - Balaji V
