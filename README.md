@@ -30,7 +30,7 @@
 
 ## EMPATHY MAP CANVAS :
 
-   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-18351-1659683556/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-48064-1660804174/blob/main/Project%20design%20and%20Planning/Ideation%20phase/Empathy_Map.pdf)
    
 
 ## BRAINSTROMING-IDEA GENERATION :
