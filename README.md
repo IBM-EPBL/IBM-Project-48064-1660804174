@@ -39,10 +39,7 @@
    
 ## LITERATURE SURVEY :
    - [LITERATURE SURVEY](https://github.com/IBM-EPBL/IBM-Project-48064-1660804174/blob/main/Project%20design%20and%20Planning/Ideation%20phase/Literature_Survey.pdf)
-   
-   
-## PROBLEM STATEMENT :
-   - [PROBLEM STATEMENT](https://github.com/IBM-EPBL/IBM-Project-18351-1659683556/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/problem%20Statement.pdf)
+  
    
 ## PROPOSED SOLUTION :
    - [PROPOSED SOLUTION](https://github.com/IBM-EPBL/IBM-Project-48064-1660804174/blob/main/Project%20design%20and%20Planning/Project%20Design%20Phase%201/Proposed%20solution.pdf)
