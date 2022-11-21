@@ -15,7 +15,7 @@
 | Team ID |PNT2022MID52453 &emsp; |
 | Team Size |5 &emsp; |
 | College Name |Annai College of Engineering and Technology, Kovilachery &emsp; |
-| Team Mentor |Vasudeva Hanush|
+| Team Mentor |Mrs.Rajeswari.V|
 | College SPOC |Mr.Ilayaraja |
 
 &emsp;
